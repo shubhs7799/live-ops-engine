@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.3",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "live-ops-engine",
+  "version": "1.0.0",
+  "description": "Pre Project",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhs7799/live-ops-engine.git"
+  },
+  "author": "shubham raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhs7799/live-ops-engine/issues"
+  },
+  "homepage": "https://github.com/shubhs7799/live-ops-engine#readme"
+}
